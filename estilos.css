@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial,sans-serif;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.search-container{
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    width: 100%;
+    
+
+}
+
+.search-container input{
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.content{
+
+    padding: 20px;
+}
